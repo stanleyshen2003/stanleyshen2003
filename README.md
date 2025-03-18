@@ -9,9 +9,10 @@
   - *Graduated in Jun. 2021*
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="center" style="border: 3px solid white; padding: 5px; display: inline-block;">
   <img width="770em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanleyshen2003&show_icons=true&theme=tokyonight" />
 </div>
+
 <div align="center">
   <img height="180em" width="431em" src="https://github-readme-stats.vercel.app/api?username=stanleyshen2003&show_icons=true&theme=tokyonight" />
   <img height="180em" width="327em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyshen2003&layout=compact&theme=tokyonight" />
