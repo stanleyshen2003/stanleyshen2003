@@ -1,6 +1,6 @@
 ### Hi there, I'm Yu-Hong Shen 👋
 
-### Education
+### 🏫 Education
 - **M.S. in Computer Science  - National Taiwan University** ***NYCU***
   - *Advisor: Prof. Chien-Chao Tseng*
 - **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU***
@@ -41,7 +41,6 @@
 
 ### 📫 Get in Touch
 - 📩 Email: stanley.shen2003@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 🌐 GitHub: [GitHub Profile](https://github.com/stanleyshen2003)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/%E6%98%B1%E5%AE%8F-%E6%B2%88-0011092a5/)
 
 ---
