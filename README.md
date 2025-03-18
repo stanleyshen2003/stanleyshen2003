@@ -9,13 +9,9 @@
   - *Graduated in Jun. 2021*
 
 ### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td style="border: 3px solid white; padding: 5px;">
+<div align="center"
       <img width="770em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanleyshen2003&show_icons=true&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+</div>
 
 
 <div align="center">
