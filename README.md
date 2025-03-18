@@ -2,6 +2,9 @@
 
 
 ### 📊 GitHub Stats
+<dev align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanleyshen2003&show_icons=true&theme=tokyonight" />
+</div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stanleyshen2003&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyshen2003&layout=compact&theme=tokyonight" />
@@ -24,6 +27,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 
 ---
 
