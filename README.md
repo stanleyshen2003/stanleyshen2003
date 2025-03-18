@@ -10,13 +10,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-      <img width="770em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanleyshen2003&show_icons=true&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanleyshen2003&show_icons=true&theme=transparent" />
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; margin: 0; padding: 0;">
-  <img height="180em" width="431em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanleyshen2003&show_icons=true&theme=transparent" />
-  <img height="180em" width="327em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanleyshen2003&layout=compact&theme=transparent" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanleyshen2003&show_icons=true&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanleyshen2003&layout=compact&theme=transparent" />
 </div>
 
 ---
