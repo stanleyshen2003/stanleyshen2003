@@ -1,5 +1,12 @@
 ### Hi there, I'm Yu-Hong Shen 👋
 
+### Education
+- **M.S. in Computer Science  - National Taiwan University** ***NYCU***
+  - *Advisor: Prof. Chien-Chao Tseng*
+- **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU***
+  - *Advisor: Prof. Yi-Ting Chen*
+- **Taichung First Senior High School** ***TCFSH*** 🎓
+  - *Graduated in Jun. 2021*
 
 ### 📊 GitHub Stats
 <div align="center">
