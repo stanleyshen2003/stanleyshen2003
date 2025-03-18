@@ -43,6 +43,6 @@
 
 ### 📫 Get in Touch
 - 📩 Email: stanley.shen2003@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/%E6%98%B1%E5%AE%8F-%E6%B2%88-0011092a5/)
+- 💼 LinkedIn: [Yu-Hong Shen](https://www.linkedin.com/in/%E6%98%B1%E5%AE%8F-%E6%B2%88-0011092a5/)
 
 ---
