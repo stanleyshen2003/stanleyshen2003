@@ -1,11 +1,11 @@
-### Hi there, I'm Yu-Hong Shen 👋
+### Hi, I'm Yu-Hong Shen 👋
 
 ### 🏫 Education
 - **M.S. in Computer Science  - National Taiwan University** ***NYCU***
   - *Advisor: Prof. Chien-Chao Tseng*
 - **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU***
   - *Advisor: Prof. Yi-Ting Chen*
-- **Taichung First Senior High School** ***TCFSH*** 🎓
+- **Cheng Gong Senior High School** ***CGSH*** 🎓
   - *Graduated in Jun. 2021*
 
 ### 📊 GitHub Stats
