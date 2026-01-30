@@ -1,7 +1,7 @@
 ### Hi, I'm Yu-Hong Shen 👋
 
 ### 🏫 Education
-- **M.S. in Computer Science  - National Taiwan University** ***NYCU***
+- **M.S. in Computer Science  - National Yang Ming Chiao Tung University** ***NYCU***
   - *Advisor: Prof. Chien-Chao Tseng*
 - **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU***
   - *Advisor: Prof. Yi-Ting Chen*
