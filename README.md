@@ -3,8 +3,9 @@
 ### 🏫 Education
 - **M.S. in Computer Science  - National Yang Ming Chiao Tung University** ***NYCU***
   - *Advisor: Prof. Chien-Chao Tseng*
-- **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU***
+- **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU*** 🎓
   - *Advisor: Prof. Yi-Ting Chen*
+  - *Graduated in Jun. 2025*
 - **Cheng Gong Senior High School** ***CGSH*** 🎓
   - *Graduated in Jun. 2021*
 
