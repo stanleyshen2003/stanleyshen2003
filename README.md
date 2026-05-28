@@ -43,6 +43,7 @@
 ---
 
 ### 📫 Get in Touch
+- 🔓 OpenSource: [GitHub Account](https://github.com/syhstanley)
 - 📩 Email: stanley.shen2003@gmail.com
 - 💼 LinkedIn: [Yu-Hong Shen](https://www.linkedin.com/in/%E6%98%B1%E5%AE%8F-%E6%B2%88-0011092a5/)
 
